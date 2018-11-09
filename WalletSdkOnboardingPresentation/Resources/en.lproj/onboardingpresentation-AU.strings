@@ -1,8 +1,0 @@
-"onboardingpresentation.error.phoneLocked" = "We're sorry, we can't confirm this mobile number.";
-"onboardingpresentation.error.phoneNotSupported" = "We're sorry, we can't text that number.";
-"onboardingpresentation.phoneConfirmation.error.expiredCode" = "That code has expired. Get a new one.";
-"onboardingpresentation.phoneEntry.error.phoneRegistered" = "It looks like that number is already linked to a PayPal account.";
-"onboardingpresentation.phoneEntry.statement.content.default" = "Confirm your mobile number to help keep your account more secure.";
-"onboardingpresentation.phoneEntry.statement.title.default" = "We'll send a text to this number.";
-"onboardingpresentation.phoneEntry.title" = "Enter your mobile number";
-"onboardingpresentation.signUpWithEmail" = "Sign up with your email";

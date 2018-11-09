@@ -1,0 +1,8 @@
+"onboardingpresentation.error.phoneLocked" = "We're sorry, we can't confirm this mobile number.";
+"onboardingpresentation.error.phoneNotSupported" = "We're sorry, we can't text this number.";
+"onboardingpresentation.phoneEntry.logIn" = "Log In";
+"onboardingpresentation.phoneEntry.statement.content.default" = "By continuing, you confirm that you're authorised to use this phone number and agree to receive text messages from PayPal. Network provider fees may apply.";
+"onboardingpresentation.phoneEntry.statement.title.default" = "We'll send a text to this number.";
+"onboardingpresentation.phoneEntry.statement.title.error.phoneNotSupportedOrLocked" = "Please enter a different number or sign up with your email address instead.";
+"onboardingpresentation.phoneEntry.title" = "Enter your mobile number";
+"onboardingpresentation.signUpWithEmail" = "Sign up with your email address";

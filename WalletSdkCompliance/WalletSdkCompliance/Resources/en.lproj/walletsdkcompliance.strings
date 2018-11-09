@@ -1,0 +1,68 @@
+/* 
+  walletsdkcompliance.strings
+  WalletSdkCompliance
+
+  Created by Ekejiuba, Steven on 6/2/16.
+  Copyright © 2016 PayPal. All rights reserved.
+*/
+
+// All Tasks Scene
+"compliance.allTasks.description" = "We need the info below to confirm your identity. It helps us to keep your account more secure. Once we’ve got your docs, we’ll review them and get back to you in 2-3 business days.";
+"compliance.allTasks.progressIndicator" = "Docs approved: ";
+"compliance.allTasks.title" = "Identity";
+
+// Task Details Scene
+"compliance.taskDetails.alertAction.cancel" = "Cancel";
+"compliance.taskDetails.alertAction.tryAgain" = "Try again";
+"compliance.taskDetails.alertAction.existingPhoto.initialState" = "Use an existing photo";
+"compliance.taskDetails.alertAction.existingPhoto.permissionAlert.cancel" = "Cancel";
+"compliance.taskDetails.alertAction.existingPhoto.permissionAlert.goToSettings" = "Go to Phone Settings";
+"compliance.taskDetails.alertAction.existingPhoto.permissionAlert.title" = "Let PayPal access your Photos";
+"compliance.taskDetails.alertAction.newPhoto.initialState" = "Take a new photo";
+"compliance.taskDetails.alertAction.newPhoto.permissionAlert.title" = "Let PayPal access your camera";
+"compliance.taskDetails.description.photoID" = "Send us a clear photo of your driver’s license, passport, or government-issued ID card.";
+"compliance.taskDetails.description.proofOfAddress" = "Send us a clear photo of your utility bill, cell phone bill, or bank statement.";
+"compliance.taskDetails.description.proofOfSSN" = "Send us a clear photo of your Social Security card or pay stub.";
+
+// Upload scene
+"compliance.docUpload.progress.processing.label" = "Reviewing";
+"compliance.docUpload.progress.message" = "Uploaded at %1$@";
+"compliance.docUpload.complete.header.subtitle" = "We’ll begin reviewing it and update you as soon as we’re done.";
+"compliance.docUpload.pending.header.subtitle" = "Your doc is uploading. We’ll notify you once we’ve finished reviewing it.";
+"compliance.docUpload.alert.button.title" = "Cancel";
+"compliance.docUpload.alert.message.title" = "Your doc is still uploading…";
+"compliance.docUpload.error.message.title" = "Looks like something went wrong. Try again.";
+"compliance.docUpload.notification.success" = "Thanks! We received your document.";
+
+// Task status scene
+"compliance.taskStatus.title.inProcess.label" = "In review";
+"compliance.taskStatus.title.rejected.label" = "Your doc wasn’t approved";
+"compliance.taskStatus.subtitle.inProcess.label" = "We’re reviewing your doc now.";
+"compliance.taskStatus.subtitle.rejected.checkEmail.label" = "We sent you an email with details as to why we couldn’t approve your doc.";
+"compliance.taskStatus.subtitle.rejected.illegible.label" = "We’re having trouble reviewing the doc you sent. Can you send a clearer photo of it?";
+"compliance.taskStatus.subtitle.rejected.unknownReason.label" = "It looks like there was a problem on our end. Try again.";
+"compliance.taskStatus.subtitle.rejected.wrongDocument.photoID.label" = "It looks like you may have sent us the wrong info. Try again by sending us a clear photo of your driver’s license or government-issued ID card.";
+"compliance.taskStatus.subtitle.rejected.wrongDocument.proofOfAddress.label" = "It looks like you may have sent us the wrong info. Try again by sending us a clear photo of your utility bill, cell phone bill, or bank statement.";
+"compliance.taskStatus.subtitle.rejected.wrongDocument.proofOfSSN.label" = "It looks like you may have sent us the wrong info. Try again by sending us a clear photo of your Social Security card or pay stub.";
+"compliance.taskStatus.title.goToWebsite.label" = "Go to our website";
+"compliance.taskStatus.subtitle.goToWebsite.label" = "Log into your PayPal account on your computer to send us this info.";
+"compliance.taskStatus.button.done.title" = "Done";
+
+// Error scene
+"error.title.message.label" = "Sorry about that";
+"error.subtitle.message.label" = "Looks like something went wrong on our end. Try again in a minute or two";
+"error.retry.button.title.label" = "Try again";
+"error.noConnectivity.title.message.label" = "No Internet connection";
+"error.noConnectivity.subtitle.message.label" = "Make sure your phone isn’t in Airplane mode and is connected to WiFi or cellular data.";
+
+// Document Upload Button
+"button.retryUpload.title" = "Try Again";
+"button.uploadDifferentPhoto.title" = "Take Another Photo";
+"button.uploadPhoto.title" = "Take a Photo";
+"button.uploadPhotoOptionally.title" = "Add More Docs (Optional)";
+
+// Common
+"compliance.back.button.accessibilityLabel" = "Back";
+
+// CIP
+"compliance.cip.nav.title" = "Confirm your identity";

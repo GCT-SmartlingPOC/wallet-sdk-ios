@@ -1,0 +1,10 @@
+"ClientMessage_DataTransactionCanceled_Message" = "It looks like you cancelled your request before we could complete it.";
+"ClientMessage_NetworkUnavailable_Message" = "It seems you're not connected to a network.";
+"ClientMessage_ServiceError_Message" = "We're having trouble connecting you right now.";
+"ClientMessage_ServiceError_Suggestion" = "Please try again later.";
+"ClientMessage_ServiceError_Title" = "Sorry about the wait";
+"ClientMessage_Sorry_Title" = "We're sorry";
+"ClientMessage_UnknownError_Message" = "We're having some trouble completing your request right now.";
+"ClientMessage_UnknownError_Suggestion" = "Please try again later, and if the problem persists let us know.";
+"ClientMessage_UnknownError_Title" = "We're sorry";
+"PFClientMessage_SecureConnectionRequired_Suggestion" = "Please try again.";

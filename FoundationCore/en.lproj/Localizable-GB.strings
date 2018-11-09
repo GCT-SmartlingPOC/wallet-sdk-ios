@@ -1,0 +1,8 @@
+"ClientMessage_Button_Deny" = "Refuse";
+"ClientMessage_DataTransactionCanceled_Message" = "It looks like you cancelled your request before we could complete it.";
+"ClientMessage_NetworkUnavailable_Message" = "It seems you're not connected to a network.";
+"ClientMessage_ServiceError_Message" = "It looks like we're having trouble connecting you at the moment.";
+"ClientMessage_Sorry_Title" = "We're Sorry";
+"ClientMessage_UnknownError_Message" = "We're having some trouble completing your request at the moment.";
+"ClientMessage_UnknownError_Title" = "We're sorry about that";
+"PFClientMessage_SecureConnectionRequired_Suggestion" = "Please try again.";

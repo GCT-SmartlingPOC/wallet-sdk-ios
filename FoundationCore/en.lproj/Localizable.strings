@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+ 
+  FoundationCore
+
+  Created by Ganapathiyadan, Deepu on 6/3/14.
+
+*/
+
+"ClientMessage_Button_Allow" = "Allow";
+
+"ClientMessage_UnknownError_Suggestion" = "Please try again shortly, and if the problem persists let us know.";
+
+"ClientMessage_Button_Cancel" = "Cancel";
+
+"ClientMessage_Button_Deny" = "Deny";
+
+"ClientMessage_Button_Dismiss" = "Dismiss";
+
+"ClientMessage_DataTransactionCanceled_Suggestion" = "Do you want to try again?";
+
+"ClientMessage_DataTransactionCanceled_Message" = "It looks like you canceled your request before we could complete it.";
+
+"PFClientMessage_SecureConnectionRequired_Title" = "For your security...";
+
+"PFClientMessage_SecureConnectionRequired_Message" = "It looks like the network you're on isn't secure. Connect to another, more secure one and try again.";
+
+"PFClientMessage_SecureConnectionRequired_Suggestion" = "Try Again.";
+
+"ClientMessage_NetworkUnavailable_Message" = "It seems you’re not connected to a network.";
+
+"ClientMessage_ServiceError_Message" = "Looks like we’re having trouble connecting you right now.";
+
+"ClientMessage_NetworkUnavailable_Suggestion" = "Please check your Wi-Fi settings and try again.";
+
+"ClientMessage_ServiceError_Suggestion" = "Please try again shortly.";
+
+"ClientMessage_Button_Retry" = "Retry";
+
+"ClientMessage_UnknownError_Title" = "Sorry About That";
+
+"ClientMessage_ServiceError_Title" = "Sorry About the Wait";
+
+"ClientMessage_UnknownError_Message" = "We’re having some trouble completing your request right now.";
+
+/* ClientMessage_AuthenticationFailure_Title
+ ClientMessage_DataTransactionCanceled_Title
+ ClientMessage_NetworkUnavailable_Title */
+"ClientMessage_Sorry_Title" = "We’re Sorry";

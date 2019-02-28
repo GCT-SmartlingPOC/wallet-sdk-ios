@@ -423,3 +423,5 @@
 //Onboarding Webview
 "onboarding.webview.navigation.title" = "Create account";
 "onboarding.webview.loginFailure.text" = "Please log in to access your new account.";
+
+"dp-test.key1" = "This is some test text to trigger an update xxx100.";
